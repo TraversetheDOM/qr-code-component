@@ -28,8 +28,8 @@ _A desktop view of the qr code component_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/qr-code-component)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/qr-code-component/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/qr-code-component)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/qr-code-component/)
 
 ## My process
 
