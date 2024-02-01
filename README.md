@@ -28,8 +28,8 @@ _A desktop view of the qr code component_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/qr-code-component)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/qr-code-component/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/qr-code-component)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/qr-code-component/)
 
 ## My process
 
@@ -42,6 +42,6 @@ _A desktop view of the qr code component_
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
